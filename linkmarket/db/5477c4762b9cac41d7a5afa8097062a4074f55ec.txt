@@ -1,0 +1,3 @@
+{"link_id":"145960","link_url":"http:\/\/www.myanmar-tour-packages.com\/tours\/Fantastic_Tour_in_Myanmar_10_Days_9_Nights.html","link_title":null,"link_anchortext":"Myanmar itinerary 10 days","link_desc":"Take a tour to Myanmar to visit beautiful cities, landscapes and temples"}
+
+{"link_id":"112552","link_url":"http:\/\/www.hue-hoian-tours.com\/","link_title":null,"link_anchortext":"Tour Hue","link_desc":null}

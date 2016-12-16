@@ -1,0 +1,116 @@
+AddHandler php53 .php
+Action php53 /cgi-bin/php53.cgi
+
+
+
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^(www.|$) [NC]
+RewriteRule ^ http://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+RewriteRule tmp/* - [F]
+RewriteRule component/.*$ - [F]
+RewriteRule inc2/.* - [F]
+RewriteRule class/.* - [F]
+RewriteRule compls/.* - [F]
+
+RewriteRule ^about/([a-zA-Z0-9_\-]+).html$ info.php?url=$1 [L]
+
+RewriteRule ^link-exchanges$ link-exchange.php [L]
+RewriteRule ^link-exchanges/$ link-exchange.php [L]
+RewriteRule ^link_exchanges_([a-zA-Z_\-]+)_([0-9]+).html$ link-exchange.php?CBid=$2 [L]
+RewriteRule ^link_exchanges_([a-zA-Z_\-]+)_([0-9]+)_([0-9]+).html$ link-exchange.php?CBname=$1&CBid=$2&page=$3 [L]
+RewriteRule ^index.html$ index.php [L]
+RewriteRule ^contact-us.html$ contact-us.php [L]
+RewriteRule ^faqs.html$ faq.php [L]
+RewriteRule ^policy.html$ policy.php [L]
+RewriteRule ^testimonial_([0-9]+)/$ testimonial.php?page=$1 [L]
+RewriteRule ^testimonial.html/$ testimonial.php [L] 
+RewriteRule ^testimonial.html$ testimonial.php [L]
+RewriteRule ^about-us.html$ about-us.php [L]
+RewriteRule ^gallery.html$ gallery.php [L]
+RewriteRule ^term-condition.html$ term-condition.php [L]
+RewriteRule ^callback.html$ phone.php [L]
+
+RewriteRule ^attractions/$ attraction.php [L]
+RewriteRule ^attractions$ attraction.php [L]
+RewriteRule ^attractions/([a-zA-Z0-9_\-]+)_([0-9]+)/$ attraction-list.php?url=$1&page=$2 [L]
+RewriteRule ^attractions/([a-zA-Z0-9_\-]+)/$ attraction-list.php?url=$1 [L]
+RewriteRule ^attractions/([a-zA-Z0-9_\-]+)/([a-zA-Z0-9_\-]+).html$ attraction-detail.php?url=$2 [L]
+
+RewriteRule ^useful_informations/$ useful-information.php [L]
+RewriteRule ^useful_informations$ useful-information.php [L]
+RewriteRule ^useful_informations/([a-zA-Z0-9_\-]+)_([0-9]+)/$ useful-information-list.php?url=$1&page=$2 [L]
+RewriteRule ^useful_informations/([a-zA-Z0-9_\-]+)/$ useful-information-list.php?url=$1 [L]
+RewriteRule ^useful_informations/([a-zA-Z0-9_\-]+)/([a-zA-Z0-9_\-]+).html$ useful-information-detail.php?url=$2 [L]
+
+RewriteRule ^news_events/$ news-events.php?url=$1 [L]
+RewriteRule ^news_events$ news-events.php?url=$1 [L]
+RewriteRule ^news_events_([0-9]+)/$ news-events.php?url=$1&page=$2 [L]
+RewriteRule ^news_events_([0-9]+)$ news-events.php?url=$1&page=$2 [L]
+RewriteRule ^news_events/([a-zA-Z0-9_\-]+).html$ news-events-detail.php?url=$1 [L]
+RewriteRule ^news_print/([a-zA-Z0-9_\-]+)/([a-zA-Z0-9_\-]+).html$ news-print.php?url=$2 [L]
+
+RewriteRule ^travel_conferences/$ travel-conference.php?url=$1 [L]
+RewriteRule ^travel_conferences$ travel-conference.php?url=$1 [L]
+RewriteRule ^travel_conferences_([0-9]+)/$ travel-conference.php?url=$1&page=$2 [L]
+RewriteRule ^travel_conferences_([0-9]+)$ travel-conference.php?url=$1&page=$2 [L]
+RewriteRule ^travel_conferences/([a-zA-Z0-9_\-]+).html$ travel-conference-detail.php?url=$1 [L]
+
+RewriteRule ^tours/$ tour.php [L]
+RewriteRule ^tours$ tour.php [L]
+RewriteRule ^tours/([a-zA-Z0-9_\-]+)/([a-zA-Z0-9_\-]+)_([0-9]+)/$ sub-tour-list.php?url=$2&page=$3 [L]
+RewriteRule ^tours/([a-zA-Z0-9_\-]+)/([a-zA-Z0-9_\-]+)_([0-9]+)$ sub-tour-list.php?url=$2&page=$3 [L]
+RewriteRule ^tours/([a-zA-Z0-9_\-]+)/([a-zA-Z0-9_\-]+)/$ sub-tour-list.php?url=$2 [L]
+RewriteRule ^tours/([a-zA-Z0-9_\-]+)/([a-zA-Z0-9_\-]+)$ sub-tour-list.php?url=$2 [L]
+RewriteRule ^tours/([a-zA-Z0-9_\-]+)_([0-9]+)/$ tour-list.php?url=$1&page=$2 [L]
+RewriteRule ^tours/([a-zA-Z0-9_\-]+)_([0-9]+)$ tour-list.php?url=$1&page=$2 [L]
+RewriteRule ^tours/([a-zA-Z0-9_\-]+)/$ tour-list.php?url=$1 [L]
+RewriteRule ^tours/([a-zA-Z0-9_\-]+)$ tour-list.php?url=$1 [L]
+RewriteRule ^tours/([a-zA-Z0-9_\-]+)/([a-zA-Z0-9_\-]+).html$ tour-detail.php?url=$2 [L]
+RewriteRule ^tour-customize.html$ tour-customize.php [L]
+RewriteRule ^tour_book/([a-zA-Z0-9_\-]+)/([a-zA-Z0-9_\-]+).html$ tour-book.php?url=$2 [L]
+RewriteRule ^tour_print/([a-zA-Z0-9_\-]+)/([a-zA-Z0-9_\-]+).html$ tour-print.php?url=$2 [L]
+
+
+RewriteRule ^hotels/$ hotel.php [L]
+RewriteRule ^hotels$ hotel.php [L]
+RewriteRule ^hotels/([a-zA-Z0-9_\-]+)_([0-9]+)/$ hotel-list.php?url=$1&page=$2 [L]
+RewriteRule ^hotels/([a-zA-Z0-9_\-]+)_([0-9]+)$ hotel-list.php?url=$1&page=$2 [L]
+RewriteRule ^hotels/([a-zA-Z0-9_\-]+)/$ hotel-list.php?url=$1 [L]
+RewriteRule ^hotels/([a-zA-Z0-9_\-]+)$ hotel-list.php?url=$1 [L]
+RewriteRule ^hotels/([a-zA-Z0-9_\-]+)/([a-zA-Z0-9_\-]+).html$ hotel-detail.php?url=$2 [L]
+RewriteRule ^hotel_book/([a-zA-Z0-9_\-]+)/([a-zA-Z0-9_\-]+).html$ hotel-book.php?url=$2 [L]
+RewriteRule ^hotel_print/([a-zA-Z0-9_\-]+)/([a-zA-Z0-9_\-]+).html$ hotel-print.php?url=$2 [L]
+
+RewriteRule ^services/$ service.php [L]
+RewriteRule ^services$ service.php [L]
+RewriteRule ^services/([a-zA-Z0-9_\-]+)_([0-9]+)/$ service-list.php?url=$1&page=$2 [L]
+RewriteRule ^services/([a-zA-Z0-9_\-]+)_([0-9]+)$ service-list.php?url=$1&page=$2 [L]
+RewriteRule ^services/([a-zA-Z0-9_\-]+)/$ service-list.php?url=$1 [L]
+RewriteRule ^services/([a-zA-Z0-9_\-]+)$ service-list.php?url=$1 [L]
+RewriteRule ^services/([a-zA-Z0-9_\-]+)/([a-zA-Z0-9_\-]+).html$ service-detail.php?url=$2 [L]
+RewriteRule ^service_book/([a-zA-Z0-9_\-]+)/([a-zA-Z0-9_\-]+).html$ service-book.php?url=$2 [L]
+RewriteRule ^service_print/([a-zA-Z0-9_\-]+)/([a-zA-Z0-9_\-]+).html$ service-print.php?url=$2 [L]
+
+
+ErrorDocument 404 /missing.html
+<Files "*.sql">
+Order Allow,Deny
+Deny from all
+</Files>
+<Files "*.dat">
+Order Allow,Deny
+Deny from all
+</Files>
+<Files "*.ini">
+Order Allow,Deny
+Deny from all
+</Files>
+<Files "config.php">
+Order Allow,Deny
+Deny from all
+</Files>
+<Files "*.bak">
+Order Allow,Deny
+Deny from all
+</Files>

@@ -1,0 +1,7 @@
+{"link_id":"118058","link_url":"http:\/\/www.sapa-tours-trek.com\/tours\/Tough_trek_to_stunning_Sapa_6_days_5_nights.html","link_title":null,"link_anchortext":"Vietnam North tours","link_desc":"The trip offers you an opportunity to explore one of the most beautiful parts in Sapa - a beautiful moutainous area under protection of Hoang Lien National Park"}
+
+{"link_id":"146859","link_url":"http:\/\/www.circuit-laos.com\/tours\/Vacances_au_Laos_du_nord_6_Jours_5_Nuits.html","link_title":null,"link_anchortext":"Laos vacances","link_desc":null}
+
+{"link_id":"145925","link_url":"http:\/\/www.myanmar-tour-packages.com\/","link_title":null,"link_anchortext":"Myanmar vacation packages","link_desc":"Myanmar tour packages, Myanmar travel packages"}
+
+{"link_id":"158416","link_url":"http:\/\/www.thailand-package-tours.com\/tours\/Tour_of_Thailand_Old_Kingdom_18_days_17_nights.html","link_title":null,"link_anchortext":"Cheap holiday package to Thailand","link_desc":null}

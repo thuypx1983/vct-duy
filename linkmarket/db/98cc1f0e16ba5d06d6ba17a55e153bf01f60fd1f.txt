@@ -1,0 +1,7 @@
+{"link_id":"112631","link_url":"http:\/\/www.hue-hoian-tours.com\/tours\/Discovery_of_Paradise_Cave_from_Hue_1_day.html","link_title":null,"link_anchortext":"Paradise cave Vietnam tour","link_desc":null}
+
+{"link_id":"144947","link_url":"http:\/\/www.laos-package-tours.com\/","link_title":null,"link_anchortext":"Laos holiday package","link_desc":"Best Laos tour packages for you and your family"}
+
+{"link_id":"146814","link_url":"http:\/\/www.circuit-en-birmanie.com\/tours\/Sejour_memorable_en_Birmanie_et_extension_a_la_plage_14_Jours_13_Nuits.html","link_title":null,"link_anchortext":"Sejours Birmanie","link_desc":null}
+
+{"link_id":"145922","link_url":"http:\/\/www.myanmar-tour-packages.com\/","link_title":null,"link_anchortext":"Myanmar travel packages","link_desc":"Myanmar tour packages, Myanmar travel packages"}

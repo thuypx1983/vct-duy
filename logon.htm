@@ -1,0 +1,65 @@
+<html>
+<head>
+<title>&#272;&#259;ng nh&#7853;p h&#7879; th&#7889;ng</title>
+<noscript>
+<strong>&#272;&#7875; s&#7917; d&#7909;ng &#273;&#432;&#7907;c h&#7879; th&#7889;ng qu&#7843;n tr&#7883; b&#7841;n ph&#7843;i b&#7853;t t&#237;nh n&#259;ng javascript trong tr&#236;nh duy&#7879;t!!</strong></noscript>
+<script language="JavaScript">
+var testcookie="a=b";
+document.cookie=testcookie;
+if(document.cookie.indexOf(testcookie)==-1)window.top.location="nocookie.htm";
+document.cookie=testcookie + ";expires=" + (new Date()).toGMTString();
+</script>
+<style type="text/css">
+.smallinput{
+	font-family:tahoma;
+	font-size:11px;
+	border:1px solid #999999	
+}
+</style>
+<body background="images/application/logonbackground.gif">
+<img src="esnc-upgrade/admin/images/spacer.gif" height="130">
+<form method="post" name="fLogon" action="esnc-upgrade/admin/logon.php">
+<table cellpadding="5" cellspacing="0" width="450" align="center" style="border:2px solid #0066CC">
+<tr class="smallinput" style="font-weight:bold;text-transform:uppercase;color:#FFFFFF ">
+  <td colspan="4" bgcolor="#0066CC" align="center">&#272;&#259;ng nh&#7853;p h&#7879; th&#7889;ng qu&#7843;n tr&#7883;</td>
+</tr>
+<tbody class="smallinput" bgcolor="#E8E8E8">
+<tr><td colspan="4">&nbsp;</td></tr>
+<tr>
+	<td width="103" rowspan="4"><img src="esnc-upgrade/admin/images/key.gif"></td>
+	<td width="84" height="20" class="navy2">T&ecirc;n &#273;&#259;ng nh&#7853;p</td>
+	<td width="179" colspan="2"><input name="fEmail" size="30" class="smallinput" tabindex="1"></td>
+</tr>
+<tr>
+	<td height="20" >M&#7853;t kh&#7849;u</td>
+	<td colspan="2"><input type="password" name="fPasswd" size="30" class="smallinput" tabindex="2"></td>
+</tr>
+<tr>
+	<td height="20" >M&atilde; s&#7889; an to&agrave;n</td>
+	<td colspan="2"><input type=text class="smallinput" name="fCode" tabindex="3"></td>	
+</tr>
+<tr>
+	<td height="20" >&nbsp;</td>
+	<td colspan="2"><img src='esnc-upgrade/admin/texttogif.php'></td>
+</tr>
+<tr>
+	<td height="20" colspan="2">&nbsp;</td>
+	<td colspan="2"><input type="submit" value="&#272;&#259;ng nh&#7853;p" class="smallinput" tabindex="4"></td>
+</tr>
+</tbody>
+<tfoot class="smallinput" style="color:#FF0000" bgcolor="#E8E8E8">
+	<tr>
+		<td height="65" colspan="4">
+			L&#432;u &yacute;:
+			<li type="square">T&ecirc;n &#273;&#259;ng nh&#7853;p: l&agrave; email &#273;&#259;ng k&yacute; v&#7899;i webmaster </li>
+			<li type="square">M&#7853;t kh&#7849;u: l&agrave; m&#7853;t kh&#7849;u &#273;&#259;ng nh&#7853;p ch&#7913; kh&ocirc;ng ph&#7843;i m&#7853;t kh&#7849;u c&#7911;a email. </li>
+		</td>
+	</tr>
+</tfoot>
+</table>
+</form>
+</body>
+</html>
+<script language="JavaScript">
+document.getElementsByName("fEmail").item(0).focus();
+</script>

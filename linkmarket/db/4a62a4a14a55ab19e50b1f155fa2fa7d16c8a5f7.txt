@@ -1,0 +1,9 @@
+{"link_id":"158359","link_url":"http:\/\/www.thailand-package-tours.com\/tours\/Panoramic_Travel_to_Thailand_10_Days_11_Nights.html","link_title":null,"link_anchortext":"10 days in Thailand itinerary","link_desc":null}
+
+{"link_id":"146815","link_url":"http:\/\/www.circuit-en-birmanie.com\/tours\/Sejour_memorable_en_Birmanie_et_extension_a_la_plage_14_Jours_13_Nuits.html","link_title":null,"link_anchortext":"Birmanie s\u00e9jour","link_desc":null}
+
+{"link_id":"146787","link_url":"http:\/\/www.circuit-en-birmanie.com\/","link_title":null,"link_anchortext":"Circuits Birmanie","link_desc":null}
+
+{"link_id":"143183","link_url":"http:\/\/www.vietnam-sejour.com\/tours\/Vietnam_vacances_balneaires_14_jours_13_nuits.html","link_title":null,"link_anchortext":"Sejour balneaire Vietnam","link_desc":"Vietnam vacances baln\u00e9aires 14 jours 13 nuits. D\u00e9tente aux belles plages de Hoi An et Nha Trang."}
+
+{"link_id":"151337","link_url":"http:\/\/www.circuit-cambodge.com\/","link_title":null,"link_anchortext":"Circuits Cambodge","link_desc":null}

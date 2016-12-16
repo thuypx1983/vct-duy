@@ -1,0 +1,7 @@
+{"link_id":"144947","link_url":"http:\/\/www.laos-package-tours.com\/","link_title":null,"link_anchortext":"Laos holiday package","link_desc":"Best Laos tour packages for you and your family"}
+
+{"link_id":"81950","link_url":"http:\/\/www.vietnam-cambodia-holidays.com\/","link_title":null,"link_anchortext":"holidays in vietnam and cambodia","link_desc":null}
+
+{"link_id":"143154","link_url":"http:\/\/www.vietnam-sejour.com\/","link_title":null,"link_anchortext":"S\u00e9jours Vietnam","link_desc":"S\u00e9jour Vietnam pas cher - Visite des monuments historiques, culturels incontournables de la ville Hano\u00ef et de Ho Chi Minh ville."}
+
+{"link_id":"169547","link_url":"http:\/\/www.galatravel.vn\/ha-noi-trang-an-bai-dinh-t487.html","link_title":null,"link_anchortext":"Tour B\u00e1i \u0110\u00ednh Tr\u00e0ng An 1 ng\u00e0y","link_desc":"Du l\u1ecbch t\u00e2m linh c\u00f9ng v\u1edbi tour B\u00e1i \u0110\u00ednh Tr\u00e0ng An 1 ng\u00e0y c\u1ee7a Galatravel."}

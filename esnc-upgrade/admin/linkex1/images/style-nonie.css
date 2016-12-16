@@ -1,0 +1,21 @@
+/*DungHM them vao ngay 15/1/2007*/
+div.title{	
+	font-size:11px;
+	font-weight:bold;
+	margin:5px 0px 5px 0px;
+}
+div#attribute,div#filter{
+	font-size:11px;
+	visibility:hidden;
+	position:absolute;
+	border:1px solid #96969D;
+	border-top:0px;
+	background:#FFFFFF;	
+}
+div#attributetext{	
+	width:136px;
+	height:17px;
+}
+div#attributetext span{cursor:default;}
+span.help{cursor:help;}
+fieldset{-moz-border-radius:6px 10px 12px 10px;border-color:#CCCCFF;}

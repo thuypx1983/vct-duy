@@ -1,0 +1,9 @@
+{"link_id":"144983","link_url":"http:\/\/www.laos-package-tours.com\/tours\/The_best_Holidays_in_Laos_12_Days_11_Nights.html","link_title":null,"link_anchortext":"Holiday in Laos","link_desc":"Laos holidays with Galatourist. Our experience guarantees highly personalised holidays in Laos"}
+
+{"link_id":"146796","link_url":"http:\/\/www.circuit-en-birmanie.com\/","link_title":null,"link_anchortext":"Circuits voyage Birmanie","link_desc":null}
+
+{"link_id":"145925","link_url":"http:\/\/www.myanmar-tour-packages.com\/","link_title":null,"link_anchortext":"Myanmar vacation packages","link_desc":"Myanmar tour packages, Myanmar travel packages"}
+
+{"link_id":"118015","link_url":"http:\/\/www.sapa-tours-trek.com\/tours\/Hiking_adventure_in_Sapa_5_days_4_nights.html","link_title":null,"link_anchortext":"Sapa adventure","link_desc":"The trip offers you an opportunity to explore one of the most beautiful parts in northern mountainous region of Vietnam - Sapa"}
+
+{"link_id":"168999","link_url":"http:\/\/www.ninhbinh-tours.com\/","link_title":null,"link_anchortext":"Tam Coc tour","link_desc":null}

@@ -1,0 +1,9 @@
+{"link_id":"116220","link_url":"http:\/\/www.sapa-tours-trek.com\/","link_title":null,"link_anchortext":"sapa tour","link_desc":null}
+
+{"link_id":"144997","link_url":"http:\/\/www.laos-package-tours.com\/tours\/Vientiane_City_Tours_and_Buddha_Park_1_Day.html","link_title":null,"link_anchortext":"Vientiane day trips","link_desc":"Vientiane city tours - Visiting one of the least discovered capitals in Asia"}
+
+{"link_id":"143190","link_url":"http:\/\/www.vietnam-sejour.com\/tours\/Circuit_au_Vietnam_arrivee_a_HCM_ville_depart_de_Hanoi_10_jours_9_nuits.html","link_title":null,"link_anchortext":"Voyage Vietnam 10 jours","link_desc":"Circuit au Vietnam (arriv\u00e9e \u00e0 HCM ville, d\u00e9part de Hano\u00ef) 10 jours 9 nuits. Visite des monuments incontournables historiques et culturels de la ville de Ho Chi Minh ville et de Hanoi."}
+
+{"link_id":"112552","link_url":"http:\/\/www.hue-hoian-tours.com\/","link_title":null,"link_anchortext":"Tour Hue","link_desc":null}
+
+{"link_id":"218484","link_url":"http:\/\/www.nhatrang-vietnambeach.com\/travel_guides\/Note_for_travellers\/","link_title":null,"link_anchortext":"Nha Trang cheap accommodation","link_desc":"@@link - Nha Trang hotels and resorts tend to embrace their natural highland surroundings, showcasing beautiful vistas and decades-old colonial villas."}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="/images/bootstrap.css" />
+    <link href="/images/jquery.mmenu.all.css" type="text/css" rel="stylesheet" />
+    <link href="/images/style.css" type="text/css" rel="stylesheet" />
+    <link href="/images/font-awesome.css" type="text/css" rel="stylesheet" />
+    <link href="/images/promotion-box.css" type="text/css" rel="stylesheet" />
+    <link href="/images/stylemenu.css" type="text/css" rel="stylesheet"  >
+    <script type="text/javascript" src="/js/jquery-1.11.2.min.js"></script>
+    <script type="text/javascript" src="/js/jcarousellite.js"></script>
+    <script type="text/javascript" src="/js/jquery.cycle.js"></script>
+    <script language="javascript" src="js/jquery.mmenu.min.all.js"></script>
+    <script language="javascript" src="js/lib.js"></script>
+    <script type="text/javascript" src="/js/bootstrap.js"></script>
+    <script type="text/javascript" src="/js/toolbox.js"></script>
+    <link rel="stylesheet" media="only screen and (max-width: 1024px) and (min-width: 769px)" href="/images/1024.css">
+    <link rel="stylesheet" media="only screen and (max-width: 991px) and (min-width: 768px)" href="/images/768.css">
+    <link rel="stylesheet" media="only screen and (max-width: 767px)" href="/images/480.css">
+
+</head>
+<body>
+<div class="container">
+    <div id="wrapper">
+        <div class="top_content">
+            {{#PATH_COMPONENT.'banner.php'}}
+            {{#PATH_COMPONENT.'main-menu.php'}}
+            <div class="clearfix" id="content">
+                <div id="left_content">
+                    {{#PATH_COMPONENT.'useful-information.php'}}
+                    {{#PATH_COMPONENT.'box-social2.php'}}
+                </div>
+                <div id="right_content">
+                    {{#PATH_COMPONENT.'box-new.php'}}
+                    {{#PATH_COMPONENT.'box-about-us.php'}}
+                    {{#PATH_COMPONENT.'box-comment.php'}}
+                    {{#PATH_COMPONENT.'box-gallery.php'}}
+                    {{#PATH_COMPONENT.'box-support.php'}}
+                </div>
+                <div class="clear"><span></span></div>
+            </div>
+        </div>
+        <div id="footer">
+            {{#PATH_COMPONENT.'footer-menu.php'}}
+        </div>
+    </div>
+    {{#PATH_COMPONENT.'copyright.php'}}
+</div>
+</body>
+</html>

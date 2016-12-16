@@ -1,0 +1,7 @@
+{"link_id":"118058","link_url":"http:\/\/www.sapa-tours-trek.com\/tours\/Tough_trek_to_stunning_Sapa_6_days_5_nights.html","link_title":null,"link_anchortext":"Vietnam North tours","link_desc":"The trip offers you an opportunity to explore one of the most beautiful parts in Sapa - a beautiful moutainous area under protection of Hoang Lien National Park"}
+
+{"link_id":"145973","link_url":"http:\/\/www.myanmar-tour-packages.com\/tours\/Yangon_City_Tour_1_Day.html","link_title":null,"link_anchortext":"Travel and tour in Yangon","link_desc":"Explore the famous sights of Yangon and surroundings with best Yangon Tours"}
+
+{"link_id":"118063","link_url":"http:\/\/www.sapa-tours-trek.com\/tours\/Sapa_s_great_walking_adventure_5_days_4_nights.html","link_title":null,"link_anchortext":"Sapa walking tours","link_desc":"You will spend 4 nights at local homestays which are very authentic, calm and pleasant, but also simple and spare"}
+
+{"link_id":"158416","link_url":"http:\/\/www.thailand-package-tours.com\/tours\/Tour_of_Thailand_Old_Kingdom_18_days_17_nights.html","link_title":null,"link_anchortext":"Cheap holiday package to Thailand","link_desc":null}

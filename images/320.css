@@ -1,0 +1,190 @@
+#slogan{
+    display: none;
+}
+.phone{
+    text-align: center;
+    padding-top: 10px;
+}
+#wowslider-container1{
+    display: none;
+}
+.home_booking{
+    position: relative;
+    background: none repeat scroll 0 0 rgba(20, 20, 20, 1);
+    border: 1px solid rgba(120, 120, 120, 1);
+    width: 100%;
+    max-width: 100%;
+    left: 0;
+    top: 0;
+    margin-top: 5px;
+}
+body{
+    background: #ffffff;
+    box-shadow: none;
+    border:none
+}
+
+.row_tour_index{
+    margin-bottom: 15px;
+}
+.home_booking h2{
+ margin-top: 10px;
+}
+.box_about{
+    margin-top: 15px;
+}
+
+.select_3 select{
+    width: 40%;
+}
+
+.img_news_list{
+    padding-bottom: 10px;
+}
+.img_tour_detail{
+    width: 100%;
+    height: 180px;
+}
+.div_book_tour{
+    float: none;
+    margin: 0 0 15px 0;
+}
+#tour_summary_1{
+    display: none;
+}
+#tour_summary_2{
+    display: block;
+}
+.img_tour_similar{
+    margin-bottom: 10px;
+}
+.img_gallery_group{
+    height: auto;
+}
+#menu_language_1{
+    display: none;
+}
+#menu_language_2{
+    display: block;
+}
+header{
+    position: relative;
+}
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img{
+    height: 150px;
+}
+
+.input_contact, .select_contact{
+    width: 100%;
+}
+.textarea_contact{
+    width: 100%;
+}
+.contact_title{
+    text-align: left;
+}
+.input_contact, .select_contact{
+    width: 100%;
+}
+.input_person{
+    width: 100%;
+}
+.img_slide{
+    height: 180px;
+}
+.tour{
+    display: none;
+}
+.opacity{
+    display: none;
+}
+DIV.check_hotelindex{
+    text-transform: none;
+    padding-right: 5px;
+}
+.radio_hotel_index{margin-top: 5px}
+a#btn_devis_right{
+    top: auto;
+    bottom: 20px;
+}
+a#btn_rdv_right{
+    top: auto;
+    bottom: 70px;
+}
+#left_content{
+    width:100%;
+    float: none;
+}
+#right_content{
+    width:100%;
+    float: none;
+}
+.img_tour_index{
+    padding-bottom: 10px;
+}
+.li_thumbs{
+    width: 25%;
+}
+.contact_us{
+    width: 100%;
+}
+.text_contact_us{
+    width: 100%;
+}
+DIV.contact_title{
+    text-align: left;
+}
+.row_tour_hot{
+    border-bottom: 1px solid #CCCCCC;
+    padding-bottom: 10px;
+}
+TEXTAREA.contact_us{width: 100%;height: 140px}
+INPUT.hotel_book_checkin{width:50%}
+.select_country{width:100%}
+.select_country_2{width:100%}
+.first_name, .last_name{
+    width: 40%;
+}
+.select_country{width:40%}
+.select_country_2{width:100%}
+#contact_us #btn_rdv_right, #tour_book #btn_rdv_right, #hotel_book #btn_rdv_right, #tour_customize #btn_rdv_right, #tour_customize #btn_devis_right,
+#contact_us #btn_devis_right, #tour_book #btn_devis_right, #hotel_book #btn_devis_right,
+#service_book #btn_devis_right,#service_book #btn_rdv_right
+{
+    display: none;
+}
+#tour_customize #cellbix-container,
+#tour_book #cellbix-container,
+#contact_us #cellbix-container,
+#hotel_book #cellbix-container,
+#phone #cellbix-container,
+#service_book #cellbix-container
+
+{
+	display:none !important
+}
+.container{
+	padding:0 8px;
+	overflow:hidden;
+}
+DIV#wrapper{padding:0; background:#fff; box-shadow: 0 0 0;}
+.cruise_info ul{
+    margin:  1em;
+    padding: 1em;
+	padding-right:0;
+	padding-left:0.5em
+}
+INPUT.book_tour_bot{
+margin-right:0;
+margin-top:5px;
+}
+INPUT.cus_tour_bot{
+margin-left:0;
+margin-top:5px;
+}
+.div_logo{
+	text-align:center
+}
+.img_logo{
+	padding-top:0
+}

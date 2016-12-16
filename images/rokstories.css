@@ -1,0 +1,21 @@
+/* Layout 1 */
+.feature-block {overflow: hidden;position: relative;}
+.feature-block .rokstories-spinner {background: transparent url(../../images/spinner.gif) no-repeat scroll 50% 50%}
+.feature-block .image-container .image-full {position:relative;overflow: hidden;}
+.feature-block .image-container .image-full img {position:absolute;top: 0;left: 0;visibility: hidden;}
+.feature-block .image-container .image-small img {cursor: pointer;}
+.feature-block .desc-container {overflow: hidden;position: relative;}
+.feature-block .desc-container .description {position: absolute;top: 0; left: 0;visibility: hidden;}
+.feature-block img.feature-main {display: block;}
+.feature-block .feature-title {display: block;font-size: 200%;line-height: 130%;margin:10px 0 0 0;}
+.feature-block .created-date {display:block;font-size:90%;margin: 0px 0 20px 0;color:#999;}
+.feature-block .feature-desc {font-size: 120%;line-height: 130%;}
+.feature-block .moduletable h3 {font-size: 180%;}
+.feature-block .readon-wrap1 {margin-top: 15px;position:relative;float:left;}
+.feature-block .readon-wrap1 span {display:block;height: 24px;line-height: 24px;}
+.feature-block a.readon {font-weight: bold;}
+.feature-block a.readon-main {font-size: 12px;cursor: pointer;}
+.feature-block a.readon-main:hover {text-decoration: none;}
+.feature-block .readon1-l {position:absolute;width: 7px;height: 24px;left:0;top:0;}
+.feature-block .readon1-m {margin-left: 7px;text-align: center;padding-left:2px;}
+.feature-block .readon1-r {margin-right: -7px;padding-right: 10px;}

@@ -1,0 +1,1 @@
+﻿var W_TEMPLATE_EDIT='Sửa template có thể làm HỎNG HOÀN TOÀN site của bạn.\nHãy TẠO MỘT BẢN SAO LƯU và liên hệ với các chuyên gia của ESN trước khi thực hiện.\nBạn có chắc chắn không?';

@@ -1,0 +1,278 @@
+#slogan{
+    display: none;
+}
+.phone{
+    text-align: center;
+    padding-top: 10px;
+}
+#wowslider-container1{
+    display: none;
+}
+.home_booking{
+    position: relative;
+    background: none repeat scroll 0 0 rgba(20, 20, 20, 1);
+    border: 1px solid rgba(120, 120, 120, 1);
+    width: 100%;
+    max-width: 100%;
+    left: 0;
+    top: 0;
+    margin-top: 5px;
+}
+body{
+    background: url("headerm.png") repeat-x scroll left top, rgba(0, 0, 0, 0) url("body.jpg") repeat scroll left top;
+    padding-top: 5px;
+}
+
+.row_tour_index{
+    margin-bottom: 15px;
+}
+.home_booking h2{
+ margin-top: 10px;
+}
+.box_about{
+    margin-top: 15px;
+}
+
+.select_3 select{
+    width: 40%;
+}
+
+.img_news_list{
+    padding-bottom: 10px;
+}
+.img_tour_detail{
+    width: 100%;
+    height: 180px;
+}
+.div_book_tour{
+    float: none;
+    margin: 0 0 15px 0;
+}
+#tour_summary_1{
+    display: none;
+}
+#tour_summary_2{
+    display: block;
+}
+.img_tour_similar{
+    margin-bottom: 10px;
+}
+.img_gallery_group{
+    height: auto;
+}
+#menu_language_1{
+    display: none;
+}
+#menu_language_2{
+    display: block;
+}
+header{
+    position: relative;
+}
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img{
+    height: 150px;
+}
+
+.input_contact, .select_contact{
+    width: 100%;
+}
+.textarea_contact{
+    width: 100%;
+}
+.contact_title{
+    text-align: left;
+}
+.input_contact, .select_contact{
+    width: 100%;
+}
+.input_person{
+    width: 100%;
+}
+.img_slide{
+    height: 180px;
+}
+.tour{
+    display: none;
+}
+.opacity{
+    display: none;
+}
+DIV.check_hotelindex{
+    text-transform: none;
+    padding-right: 5px;
+}
+.radio_hotel_index{margin-top: 5px}
+a#btn_devis_right{
+    top: auto;
+    bottom: 20px;
+}
+a#btn_rdv_right{
+    top: auto;
+    bottom: 70px;
+}
+#left_content{
+    width:100%;
+    float: none;
+}
+#right_content{
+    width:100%;
+    float: none;
+}
+.img_tour_index{
+    padding-bottom: 10px;
+}
+.li_thumbs{
+    width: 25%;
+}
+.contact_us{
+    width: 100%;
+}
+.text_contact_us{
+    width: 100%;
+}
+DIV.contact_title{
+    text-align: left;
+}
+.row_tour_hot{
+    border-bottom: 1px solid #CCCCCC;
+    padding-bottom: 10px;
+}
+TEXTAREA.contact_us{width: 100%;height: 140px}
+INPUT.hotel_book_checkin{width:50%}
+.select_country{width:100%}
+.select_country_2{width:100%}
+.first_name, .last_name{
+    width: 40%;
+}
+.select_country{width:40%}
+.select_country_2{width:100%}
+#contact_us #btn_rdv_right, #tour_book #btn_rdv_right, #hotel_book #btn_rdv_right, #tour_customize #btn_rdv_right, #tour_customize #btn_devis_right,
+#contact_us #btn_devis_right, #tour_book #btn_devis_right, #hotel_book #btn_devis_right,
+#service_book #btn_devis_right,#service_book #btn_rdv_right
+{
+    display: none;
+}
+#tour_customize #cellbix-container,
+#tour_book #cellbix-container,
+#contact_us #cellbix-container,
+#hotel_book #cellbix-container,
+#phone #cellbix-container,
+#service_book #cellbix-container
+
+{
+	display:none !important
+}
+.container{
+	padding:0 8px;
+	overflow:hidden;
+}
+.cruise_info ul{
+    margin:  1em;
+    padding: 1em;
+	padding-right:0;
+	padding-left:0.5em
+}
+INPUT.book_tour_bot{
+margin-right:0;
+margin-top:5px;
+}
+INPUT.cus_tour_bot{
+margin-left:0;
+margin-top:5px;
+}
+.div_logo{
+	text-align:center
+}
+.img_logo{
+	padding-top:0
+}
+.right_banner {
+    float: none;
+    text-align: center;
+}
+.div_logo {
+    float: none;
+    text-align: center;
+}
+#wrapper {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border-radius: 0;
+    box-shadow: 0 0 0;
+    margin-top: 0;
+}
+.link_language {
+    display: none;
+}
+.h1_title{
+    float: none;
+}
+.h1_title{
+    font-size: 17px;
+}
+.img_logo{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+@media screen and (max-width: 390px){
+    .h1_title{
+        font-size: 15px;
+    }
+}
+@media screen and (max-width: 330px){
+    .h1_title{
+        font-size:14px
+    }
+    .img_logo{
+        width: 220px;
+    }
+}
+.top_content {
+    padding: 0;
+}
+header {
+    height: auto;
+    padding-bottom: 0;
+    position: relative;
+}
+.h1_title{
+    margin-top: 0;
+}
+div.googlelike_, div.twitterlike_, div.facebooklike_ {
+    display: inline-block;
+    float: none;
+}
+div.fb_tw_gg {
+    float: none;
+}
+.right_banner {
+    text-align: center;
+}
+.btn_fix{
+    display: none;
+}
+.breadcrumbs div{
+    display: none;
+}
+.breadcrumbs div:first-child{
+    display: block;
+}
+.breadcrumbs div:nth-child(2){
+    display: block;
+}
+#slideshow{
+     height: 180px !important;
+ }
+ul.ul_tab_tour{
+    border-bottom: 1px solid #5e0109;
+}
+.sub_menu_col {
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+.sub_menu_cat {
+    background: rgba(0, 0, 0, 0) url("icon2.png") no-repeat scroll 0 6px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    padding-left: 15px;
+}

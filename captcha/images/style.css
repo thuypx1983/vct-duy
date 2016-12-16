@@ -1,0 +1,19 @@
+div.cool_captcha_img img{
+    float: left;
+}
+div.cool_captcha_img a{
+    float: left;
+    margin: 12px 15px;
+    padding: 3px 25px;
+    background: url('refresh.gif') no-repeat 0 0;
+    color: #094A92;
+    text-decoration: none;
+    cursor: pointer;
+}
+div.cool_captcha_img a:hover{
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+.cool_captcha_clr{
+    clear: both;
+}

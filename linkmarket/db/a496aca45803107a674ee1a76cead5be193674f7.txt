@@ -1,0 +1,5 @@
+{"link_id":"145934","link_url":"http:\/\/www.myanmar-tour-packages.com\/","link_title":null,"link_anchortext":"Myanmar travel package","link_desc":"Myanmar tour packages, Myanmar travel packages"}
+
+{"link_id":"146871","link_url":"http:\/\/www.circuit-laos.com\/tours\/Visiter_le_Laos_pas_cher_8_Jours_7_Nuits.html","link_title":null,"link_anchortext":"Visiter le Laos","link_desc":null}
+
+{"link_id":"146814","link_url":"http:\/\/www.circuit-en-birmanie.com\/tours\/Sejour_memorable_en_Birmanie_et_extension_a_la_plage_14_Jours_13_Nuits.html","link_title":null,"link_anchortext":"Sejours Birmanie","link_desc":null}

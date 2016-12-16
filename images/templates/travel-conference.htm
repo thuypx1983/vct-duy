@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="/images/bootstrap.css" />
+    <link href="/images/style.css" type="text/css" rel="stylesheet" />
+    <link href="/images/promotion-box.css" type="text/css" rel="stylesheet" />
+    <script type="text/javascript" src="/js/jquery-1.11.2.min.js"></script>
+    <script type="text/javascript" src="/js/lib.js"></script>
+    <script type="text/javascript" src="/js/bootstrap.js"></script>
+    <link rel="stylesheet" media="only screen and (max-width: 1024px) and (min-width: 769px)" href="/images/1024.css">
+    <link rel="stylesheet" media="only screen and (max-width: 991px) and (min-width: 768px)" href="/images/768.css">
+    <link rel="stylesheet" media="only screen and (max-width: 767px)" href="/images/480.css">
+
+    <!--[if lte IE 6]>
+    <link href="images/style_ie6.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 7]>
+    <link href="images/style_ie7.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE]>
+    <script type="text/javascript">
+        document.getElementsByName=function(str){
+            str=new String(str);
+            var myMatches=new Array();
+            var allEls=document.getElementsByTagName("*"),l=allEls.length;
+            for(var i=0;i<l;i++)if(allEls[i].name==str || allEls[i].getAttribute("name")==str)myMatches[myMatches.length]=allEls[i];
+            return myMatches;
+        }
+    </script>
+    <![endif]-->
+</head>
+<body>
+<div class="container">
+    <div id="wrapper">
+        {{#PATH_COMPONENT.'banner.php'}}
+        {{#PATH_COMPONENT.'main-menu.php'}}
+        <div class="clearfix" id="content">
+            <div id="left_content">
+                {{#PATH_COMPONENT.'box-slogan.php'}}
+                {{#PATH_COMPONENT.'travel-conference.php'}}
+                {{#PATH_COMPONENT.'box-social2.php'}}
+            </div>
+            <div id="right_content">
+                {{#PATH_COMPONENT.'box-new.php'}}{{#PATH_COMPONENT.'promotion-box.php'}}
+                {{#PATH_COMPONENT.'box-group-tour.php'}}
+                {{#PATH_COMPONENT.'box-search.php'}}
+                {{#PATH_COMPONENT.'box-about-us.php'}}
+                {{#PATH_COMPONENT.'box-comment.php'}}
+                {{#PATH_COMPONENT.'box-gallery.php'}}
+                {{#PATH_COMPONENT.'box-support.php'}}
+            </div>
+        </div>
+        <div id="footer">
+            {{#PATH_COMPONENT.'footer-menu.php'}}
+        </div>
+    </div>
+</div>
+</body>
+</html>

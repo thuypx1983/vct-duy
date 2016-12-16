@@ -1,0 +1,11 @@
+<PUBLIC:COMPONENT lightweight="true">
+<PUBLIC:ATTACH EVENT="oncontentready" FOR="element" ONEVENT="resize()" />
+<SCRIPT LANGUAGE="JavaScript">
+   function resize(){
+   		mW = parseInt(element.rel);if(isNaN(mW)) mW=0;
+   		mH = parseInt(element.rev);if(isNaN(mH)) mH=0;
+		if(mW > 0 && parseInt(element.width) > mW) element.width=mW;
+		if(mH > 0 && parseInt(element.height) > mH) element.height=mH;
+   }
+</SCRIPT>
+</PUBLIC:COMPONENT>

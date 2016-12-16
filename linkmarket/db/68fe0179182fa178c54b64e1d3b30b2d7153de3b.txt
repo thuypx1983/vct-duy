@@ -1,0 +1,7 @@
+{"link_id":"112604","link_url":"http:\/\/www.hue-hoian-tours.com\/tours\/Discovery_of_Hue_Hoi_An_and_outdoor_cycling_to_rural_villages_4_days_3_nights.html","link_title":null,"link_anchortext":"Day trip from Hoi An to Hue","link_desc":null}
+
+{"link_id":"145973","link_url":"http:\/\/www.myanmar-tour-packages.com\/tours\/Yangon_City_Tour_1_Day.html","link_title":null,"link_anchortext":"Travel and tour in Yangon","link_desc":"Explore the famous sights of Yangon and surroundings with best Yangon Tours"}
+
+{"link_id":"118063","link_url":"http:\/\/www.sapa-tours-trek.com\/tours\/Sapa_s_great_walking_adventure_5_days_4_nights.html","link_title":null,"link_anchortext":"Sapa walking tours","link_desc":"You will spend 4 nights at local homestays which are very authentic, calm and pleasant, but also simple and spare"}
+
+{"link_id":"146829","link_url":"http:\/\/www.circuit-en-birmanie.com\/tours\/Visiter_Birmanie_en_panorama_16_Jours_15_Nuits.html","link_title":null,"link_anchortext":"Birmanie&nbsp;visiter","link_desc":null}

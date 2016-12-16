@@ -1,0 +1,39 @@
+/* CSS Document */
+
+ul#deluxeMenu li.istylei1>a, ul#deluxeMenu li.dis.istylei1:hover>a, ul#deluxeMenu h1,ul#deluxeMenu h2, ul#deluxeMenu ul, ul#deluxeMenu li.istylei1:hover>a, ul#deluxeMenu li.istylei1,ul#deluxeMenu li.dis.istylei1:hover, ul#deluxeMenu li.istylei1:hover, ul#deluxeMenu li.istylei0>a,ul#deluxeMenu li.dis.istylei0:hover>a, ul#deluxeMenu li.istylei0:hover>a, ul#deluxeMenu li.istylei0,ul#deluxeMenu li.dis.istylei0:hover, ul#deluxeMenu li.istylei0:hover, ul#deluxeMenu li.istylei2>a,ul#deluxeMenu li.dis.istylei2:hover>a, ul#deluxeMenu li.istylei2:hover>a, ul#deluxeMenu li.istylei2,ul#deluxeMenu li.dis.istylei2:hover, ul#deluxeMenu li.istylei2:hover {
+	behavior: url(../js/iepngfix.htc);
+	}
+
+div.ct_hottour_{height:497px;}
+DIV.banner_java_all{padding-bottom:17px;}
+DIV.java_b_ie6{margin-bottom:0px;}
+DIV.left_group_tour_ UL{margin-bottom:20px;}
+
+DIV.group_tour_top_pages{margin-bottom:20px; border-bottom:1px solid #007a5b; padding-bottom:1px;}
+DIV.title_group_tour_page{height:20px;}
+DIV.input_back_top{margin-right:4px; float:left;}
+DIV.title_country_tour{height:18px;}
+DIV.title_tour_list_new{margin-bottom:2px;}
+DIV.page_next_tour_{font-size:12px; color:#4b4948; height:10px;}
+DIV.title_tour_dt{height:20px;}
+DIV.group_hotel_bot_2{height:100px; padding-bottom:10px;}
+DIV.title_group_hotel_index{height:12px;}
+H2.title_ht_big{margin:0px;padding:0px; font-weight:normal; display:inline;}
+DIV.title_country_hotel_{height:12px;}
+DIV.right_row_hotel_dt UL LI {background:url(arrow_6x6_ul.gif) no-repeat 0px 8px; padding-left:10px;  width:190px;}
+DIV.data_hotel_dt UL{padding:0px; margin-left:-30px;}
+DIV.title_room_amen{padding-left:10px;}
+DIV.summart_tour{height:100px;}
+DIV.data_hotel_dt H4{height:10px;}
+DIV.title_country_ser_ H3{height:10px;}
+DIV.summary_ser___{height:10px;}
+DIV.search_title_result{height:20px;}
+
+DIV.data_service{ height:100px;}
+DIV.img_show_active{ left:0px; top:0px; position:absolute;}
+DIV.left_banner_java{position:relative;}
+DIV.right_banner_java{position:absolute; top:0px; left:0px; height:100px;}
+DIV.row_ser_list{height:100px; padding-bottom:15px;}
+div.mooquee_layer_one{margin-top:0px}
+div.padding_menufooter{display:inline-block}
+div#content_left{padding-top:3px}

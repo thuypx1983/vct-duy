@@ -1,0 +1,9 @@
+{"link_id":"143194","link_url":"http:\/\/www.vietnam-sejour.com\/tours\/Circuit_au_Vietnam_arrivee_a_HCM_ville_depart_de_Hanoi_10_jours_9_nuits.html","link_title":null,"link_anchortext":"Sejour Vietnam 10 jours","link_desc":"Circuit au Vietnam (arriv\u00e9e \u00e0 HCM ville, d\u00e9part de Hano\u00ef) 10 jours 9 nuits. Visite des monuments incontournables historiques et culturels de la ville de Ho Chi Minh ville et de Hanoi."}
+
+{"link_id":"82081","link_url":"http:\/\/www.vietnam-cambodia-holidays.com\/tours\/Combination_Tours\/Cambodia_and_Laos_Tours\/","link_title":null,"link_anchortext":"laos cambodia tour","link_desc":null}
+
+{"link_id":"144953","link_url":"http:\/\/www.laos-package-tours.com\/","link_title":null,"link_anchortext":"Travel packages Laos","link_desc":"Best Laos tour packages for you and your family"}
+
+{"link_id":"118016","link_url":"http:\/\/www.sapa-tours-trek.com\/tours\/Hiking_adventure_in_Sapa_5_days_4_nights.html","link_title":null,"link_anchortext":"Sapa adventure tours","link_desc":"The trip offers you an opportunity to explore one of the most beautiful parts in northern mountainous region of Vietnam - Sapa"}
+
+{"link_id":"151337","link_url":"http:\/\/www.circuit-cambodge.com\/","link_title":null,"link_anchortext":"Circuits Cambodge","link_desc":null}

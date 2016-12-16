@@ -1,0 +1,70 @@
+<html>
+<head>
+<title>&#272;&#259;ng nh&#7853;p h&#7879; th&#7889;ng</title>
+<noscript>
+<strong>&#272;&#7875; s&#7917; d&#7909;ng &#273;&#432;&#7907;c h&#7879; th&#7889;ng qu&#7843;n tr&#7883; b&#7841;n ph&#7843;i b&#7853;t t&#237;nh n&#259;ng javascript trong tr&#236;nh duy&#7879;t!!</strong></noscript>
+<script language="JavaScript">
+var testcookie="a=b";
+document.cookie=testcookie;
+if(document.cookie.indexOf(testcookie)==-1)window.top.location.href="nocookie.htm";
+document.cookie = testcookie + ";expires=" + (new Date()).toGMTString();
+</script>
+<style type="text/css">
+.smallinput{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	border:1px solid #999999	
+}
+</style>
+<body background="images/bg.gif" style="margin-top:100px;">
+<form method="post" action="logon-linkex.php" onSubmit="checkForm(this);">
+<input type="hidden" name="password" value=""/>
+<table cellpadding="5" cellspacing="0" width="450" align="center" style="border:2px solid #0066CC">
+<tr class="smallinput" style="font-weight:bold;color:#FFFFFF ">
+  <td colspan="4" bgcolor="#0066CC" align="center">&#272;&#258;NG NH&#7852;P ESNC.Net module link exchange</td>
+</tr>
+<tbody class="smallinput" bgcolor="#E8E8E8">
+<tr>
+  <td colspan="4">&nbsp;</td>
+</tr>
+<tr>
+	<td width="103" rowspan="4"><img src="images/key.gif"></td>
+	<td width="150" height="20" class="navy2" style="cursor:help" nowrap title="Nh&#7853;p  t&ecirc;n b&#7841;n &#273;&#432;&#7907;c c&#7845;p ph&aacute;t &#273;&#7875; v&agrave;o h&#7879; th&#7889;ng">T&ecirc;n &#273;&#259;ng nh&#7853;p</td>
+	<td colspan="2" title="Nh&#7853;p  t&ecirc;n b&#7841;n &#273;&#432;&#7907;c c&#7845;p ph&aacute;t &#273;&#7875; v&agrave;o h&#7879; th&#7889;ng"><input name="fEmail" size="30" class="smallinput"/></td>
+</tr>
+<tr>
+	<td height="20" style="cursor:help " title="Nh&#7853;p m&#7853;t kh&#7849;u b&#7841;n &#273;&#432;&#7907;c c&#7845;p ph&aacute;t &#273;&#7875; v&agrave;o qu&#7843;n tr&#7883; h&#7879; th&#7889;ng">M&#7853;t kh&#7849;u</td>
+	<td colspan="3" title="Nh&#7853;p m&#7853;t kh&#7849;u b&#7841;n &#273;&#432;&#7907;c c&#7845;p ph&aacute;t &#273;&#7875; v&agrave;o qu&#7843;n tr&#7883; h&#7879; th&#7889;ng"><input type="password" name="fPasswd" size="30" class="smallinput"/></td>
+</tr>
+<tr>
+	<td height="20" style="cursor:help" title="Nh&#7853;p m&atilde; s&#7889; b&#7841;n nh&igrave;n th&#7845;y ph&iacute;a d&#432;&#7899;i &#273;&#7875; ng&#259;n ng&#7915;a c&aacute;c ch&#432;&#417;ng tr&igrave;nh t&#7921; &#273;&#7897;ng &#273;&#259;ng nh&#7853;p ngo&agrave;i &yacute; mu&#7889;n">M&atilde; s&#7889; an to&agrave;n <strong>(?)</strong></td>
+	<td colspan="3" title="Nh&#7853;p  t&ecirc;n b&#7841;n &#273;&#432;&#7907;c c&#7845;p ph&aacute;t &#273;&#7875; v&agrave;o h&#7879; th&#7889;ng"><input type=text class="smallinput" name="fCode" size="30"/></td>	
+</tr>
+<tr>
+	<td colspan="4" align="center" ><img src='texttogif.php' style="cursor:help " title="Nh&#7853;p m&atilde; s&#7889; n&agrave;y v&agrave;o &ocirc; b&ecirc;n tr&ecirc;n &#273;&#7875; ng&#259;n ng&#7915;a c&aacute;c ch&#432;&#417;ng tr&igrave;nh t&#7921; &#273;&#7897;ng &#273;&#259;ng nh&#7853;p ngo&agrave;i &yacute; mu&#7889;n"/></td>
+</tr>
+<tr>
+	<td colspan="4" align="center" ><input type="button"  value="&#272;&#259;ng nh&#7853;p" class="smallinput" onClick="this.form.submit();" style="font-weight:bold "/></td>
+</tr>
+</tbody>
+<tfoot class="smallinput" style="color:#FF0000" bgcolor="#E8E8E8">
+	<tr>
+		<td height="20" colspan="4">&nbsp;</td>
+	</tr>
+</tfoot>
+</table>
+</form>
+</body>
+</html>
+<script language="JavaScript" defer>
+document.getElementsByTagName("form").item(0).fEmail.focus();
+function resendPassword(f){
+	if(f.fEmail.value == ''){
+		window.alert('Ban phai nhap email de gui lai mat khau');
+		f.fEmail.focus();
+		return false;
+	}
+	f.password.value = "resend";
+	f.submit();
+}
+</script>

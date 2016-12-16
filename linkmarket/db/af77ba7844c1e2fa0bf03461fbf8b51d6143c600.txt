@@ -1,0 +1,5 @@
+{"link_id":"112604","link_url":"http:\/\/www.hue-hoian-tours.com\/tours\/Discovery_of_Hue_Hoi_An_and_outdoor_cycling_to_rural_villages_4_days_3_nights.html","link_title":null,"link_anchortext":"Day trip from Hoi An to Hue","link_desc":null}
+
+{"link_id":"143206","link_url":"http:\/\/www.voyage-vietnam-laos.com\/","link_title":null,"link_anchortext":"Voyage combine Laos Vietnam","link_desc":"Voyage Vietnam Laos - Visite des monuments incontournables historiques et culturels de la ville Hano\u00ef. Belles ballades pour d\u00e9couvrir Luang Prabang - l'ancienne capitale du Laos."}
+
+{"link_id":"146829","link_url":"http:\/\/www.circuit-en-birmanie.com\/tours\/Visiter_Birmanie_en_panorama_16_Jours_15_Nuits.html","link_title":null,"link_anchortext":"Birmanie&nbsp;visiter","link_desc":null}

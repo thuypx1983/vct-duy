@@ -1,0 +1,8 @@
+{"link_id":"118000","link_url":"http:\/\/www.sapa-tours-trek.com\/","link_title":null,"link_anchortext":"Vietnam Sapa tour","link_desc":"On the way to Sapa's village, you will have more experience about different process to make rice terrace. You will feel more countryside live."}
+
+{"link_id":"112552","link_url":"http:\/\/www.hue-hoian-tours.com\/","link_title":null,"link_anchortext":"Tour Hue","link_desc":null}
+
+{"link_id":"143144","link_url":"http:\/\/www.vietnam-sejour.com\/","link_title":null,"link_anchortext":"S\u00e9jour Vietnam","link_desc":"S\u00e9jour Vietnam pas cher - Visite des monuments historiques, culturels incontournables de la ville Hano\u00ef et de Ho Chi Minh ville."}
+
+{"link_id":"118037","link_url":"http:\/\/www.sapa-tours-trek.com\/tours\/Sapa_tour_classic_5_days_4_nights.html","link_title":null,"link_anchortext":"Sapa travel","link_desc":"You have a chance to communicate with minority and discovery their life style as well as their custom."}
+

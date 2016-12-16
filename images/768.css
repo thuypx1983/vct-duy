@@ -1,0 +1,99 @@
+.main_menu{
+    position: relative;
+}
+.box_about{
+    margin-top: 15px;
+}
+.h3_about{
+    text-align: left;
+    margin-left: 50px;
+}
+.menu_language{
+    text-align: left;
+    padding-top: 10px;
+    color: #666666;
+}
+.a_language{
+    text-shadow: 0 0 0;
+    color: #666;
+    font-size: 12px;
+    font-weight: normal;
+}
+.phone{
+    padding-top: 5px;
+    text-align: right;
+}
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img{
+    height: 300px;
+}
+.img_slide{
+    height: 250px;
+}
+.tour{
+    width: 50%;
+}
+.li_thumbs{
+    width: 14.2857%;
+}
+.li_thumbs img{
+    height: 65px;
+}
+#left_content{
+    width:100%;
+    float: none;
+}
+#right_content{
+    width:100%;
+    float: none;
+}
+.img_tour_detail{
+    height: 320px;
+}
+IMG.img_gallery_index{
+    height: 75px;
+}
+#tour_customize #cellbix-container,
+#tour_book #cellbix-container,
+#contact_us #cellbix-container,
+#hotel_book #cellbix-container,
+#phone #cellbix-container,
+#service_book #cellbix-container
+
+{
+	display:none !important
+}
+#contact_us #btn_rdv_right, #tour_book #btn_rdv_right, #hotel_book #btn_rdv_right, #tour_customize #btn_rdv_right, #tour_customize #btn_devis_right,
+#contact_us #btn_devis_right, #tour_book #btn_devis_right, #hotel_book #btn_devis_right,
+#service_book #btn_devis_right,#service_book #btn_rdv_right
+{
+    display: none;
+}
+#slideshow{
+    height: 250px !important;
+}
+.h1_title {
+    float: none;
+}
+.h1_title {
+    margin-top: 5px;
+    padding: 0;
+    text-align: right;
+}
+header{
+    padding-bottom: 0;
+}
+.img_test_left {
+    float: left;
+    margin-right: 10px;
+    width: 150px;
+}
+.sub_menu_col {
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+.sub_menu_cat {
+    background: rgba(0, 0, 0, 0) url("icon2.png") no-repeat scroll 0 6px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    padding-left: 15px;
+}

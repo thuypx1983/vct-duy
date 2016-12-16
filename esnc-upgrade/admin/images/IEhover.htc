@@ -1,0 +1,13 @@
+<PUBLIC:COMPONENT lightweight="true">
+<PUBLIC:ATTACH EVENT="onmouseover" ONEVENT="hoverClass()" />
+<PUBLIC:ATTACH EVENT="onmouseout"  ONEVENT="restore()" />
+<SCRIPT LANGUAGE="JavaScript">
+   function hoverClass()
+   {
+	   element.className += '-hover';
+	}
+   function restore()
+   { element.className = String(element.className).replace(/\-hover$/,'');
+   }
+</SCRIPT>
+</PUBLIC:COMPONENT>
